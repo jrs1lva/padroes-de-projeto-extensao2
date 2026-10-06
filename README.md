@@ -1,6 +1,6 @@
 # Padrões de Projetos: Categoria Extensão
 
-**Instituição:** Universidade Católica do Salvador (UCSal)
+**Instituição:** Universidade Católica do Salvador (UCSAL)
 **Aluno:** Adailton da Cruz Silva Júnior
 **Repositório Github:** [https://github.com/jrs1lva/padroes-de-projeto-extensao2.git]
 
